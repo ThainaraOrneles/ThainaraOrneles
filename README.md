@@ -1,4 +1,4 @@
-<h1 align="center"> Hello word, i'm Thainara Orneles 👋 </h1>
+<h1 align="center"> Hello word, I'm Thainara Orneles 👋 </h1>
 
 <br/>
 <br/>
