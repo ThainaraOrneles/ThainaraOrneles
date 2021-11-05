@@ -34,12 +34,49 @@
 </div>
 <br/>
 <br/>
+<br/>
+
 <hr>
+<br/>
+<br/>
+<br/>
+
 <h3 align="center">🌱 Currently learning </h3>
 
+<div align="center">
+  
+  <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 
+  <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 
-<div align="center">>
+  <img height="70em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  
+  <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
+  
+  <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  
+  <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  
+  <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
+  
+  <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  
+  <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+  
+  <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  
+  <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+  
+  <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  
+  <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+ 
+</div>
+<br/>
+<br/>
+<br/>
+<hr>
+<div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThainaraOrneles&show_icons=true&theme=tokyonight"/>
 
 <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThainaraOrneles&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
