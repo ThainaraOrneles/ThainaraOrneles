@@ -1,11 +1,18 @@
 <h1 align="center"> Hello word, i'm Thainara Orneles 👋 </h1>
 
+<br/>
+<br/>
+<br/>
+
+<div align="center">
 <h3> •Connect with me </h3>
 
 <a href="https://www.linkedin.com/in/thainara-orneles-matos-0b3b92198/" alt="linkedin" target="_blank">
 
 <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+ 
 </a>
+ </div>
 <hr>
 <br/>
 <br/>
