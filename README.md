@@ -28,6 +28,8 @@
   <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   
   <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+ 
+  <img height="70em" src="https://img.icons8.com/color/144/000000/microsoft-excel-2019--v1.png"/>
   
   <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   
