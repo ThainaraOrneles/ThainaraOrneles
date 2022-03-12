@@ -5,6 +5,11 @@
 <br/>
 
 <div align="center">
+<h3> •About me</h3>
+<hr>
+<br/>
+<br/>
+<br/>
 <h3> •Connect with me </h3>
 
 <a href="https://www.linkedin.com/in/thainara-orneles-matos-0b3b92198/" alt="linkedin" target="_blank">
