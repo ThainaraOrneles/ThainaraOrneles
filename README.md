@@ -5,7 +5,15 @@
 <br/>
 
 <div align="center">
+
 <h3> •About me</h3>
+Meu nome é Thainara, tenho 24 anos e sou desenvolvedora front end junior. Atualmente estudo ciências da computação na Universidade Federal do Mato Grosso do sul, hoje cursando o 7.º semestre.
+<br/>
+<h3>•Hobbies</h3>
+Amo assistir filmes e séries, jogar e cozinhar.
+<br/>
+<br/>
+<br/>
 <hr>
 <br/>
 <br/>
@@ -17,7 +25,10 @@
 <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
  
 </a>
- </div>
+<br/>
+<br/>
+<br/>
+</div>
 <hr>
 <br/>
 <br/>
